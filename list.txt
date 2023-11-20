@@ -1,0 +1,9 @@
+Willy' list :
+- belajar HTML
+- belajar CSS
+- Belajar git dan github
+- belajar bootstrap / tailwind
+- belajar javascript
+- belajar PHP
+- belajar xampp
+- belajar laravel
