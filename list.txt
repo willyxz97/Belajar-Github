@@ -7,5 +7,5 @@ Willy' list :
 - belajar PHP
 - belajar xampp
 - belajar laravel
-- belajar backend developer
 - belajar full stack dev
+- menjadi advance di web dev
